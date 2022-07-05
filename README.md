@@ -21,3 +21,4 @@ there just add svadhesive.dll from the [latest FiveM build](https://runtime.five
 ![vscom](https://img.shields.io/badge/vscommuntiy-black?style=flat-square&logo=visual-studio-code&logoColor=ac68c4)
 
 ## If you need help HMU
+https://discord.gg/UuftznYajU

@@ -1,13 +1,6 @@
 ## ❗ Info
 ITS AN FIVEM ESCROW DUMPER THAT RETURNS BYTECODE! 
 
-### Languages
-![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
-![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
-
-### DevOps & Tools
-![vscom](https://img.shields.io/badge/vscommuntiy-black?style=flat-square&logo=visual-studio-code&logoColor=ac68c4)
-
 ## 🧠 For Retardos
 Heres an [already finished build for FiveM](https://workupload.com/file/yrBfkx3bnLv) just replace this with your server Folder.
 The resource name of the resource you want to dump MUST be: **dumpresource**
@@ -18,5 +11,12 @@ Setup an normal [custom FiveM server build](https://github.com/citizenfx/fivem/b
 
 After that just build it and go to \fivem\code\bin\server\windows\release\
 there just add svadhesive.dll from the [latest FiveM build](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) and add "svadhesive", to components.json in the same path.
+
+### Languages
+![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
+![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
+
+### DevOps & Tools
+![vscom](https://img.shields.io/badge/vscommuntiy-black?style=flat-square&logo=visual-studio-code&logoColor=ac68c4)
 
 ## If you need help HMU

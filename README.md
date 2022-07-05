@@ -1,4 +1,5 @@
 ## ❗ Info
+ITS AN FIVEM ESCROW DUMPER RESOURCE!
 
 ### Languages
 ![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)

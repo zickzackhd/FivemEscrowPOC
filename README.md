@@ -16,7 +16,7 @@ there just add svadhesive.dll from the [latest FiveM build](https://runtime.five
 ## 🧠 For Retardos
 Heres an [already finished build for FiveM](https://workupload.com/file/yrBfkx3bnLv) just replace this with your server Folder.
 The resource name of the resource you want to dump MUST be: **dumpresource**
-AND if you need to dump client files just edit the fxmanifest from client_script to server_script
+AND if you need to dump client files just edit the fxmanifest from client_script to server_script(ONLY ONE SERVER_SCRIPT PER RESTART! DELETE OTHER SERVER_SCRIPT ENTRIES)
 
 
 ## If you need help HMU

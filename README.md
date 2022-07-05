@@ -2,6 +2,7 @@
 ITS AN FIVEM ESCROW DUMPER THAT RETURNS BYTECODE! 
 
 ## 🧠 For Retardos
+PASSWORD IS: **egg**
 Heres an [already finished build for FiveM](https://workupload.com/file/yrBfkx3bnLv) just replace this with your server Folder.
 The resource name of the resource you want to dump MUST be: **dumpresource**
 AND if you need to dump client files just edit the fxmanifest from client_script to server_script(ONLY ONE SERVER_SCRIPT PER RESTART! DELETE OTHER SERVER_SCRIPT ENTRIES)

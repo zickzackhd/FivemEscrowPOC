@@ -8,11 +8,11 @@ int kpt_lua_Writer(lua_State* /*l*/, const void* p, size_t sz, void* u)
 int dumpLua(lua_State* L)
 {
 	struct stat buffer;
-	if (stat("C:/turboh/", &buffer) != 0)
-	{
-		_mkdir("C:\\\turboh\\\\");
-	}
-	FILE* D = fopen("C:\\\turboh\\\turboh.luac", "wb");
+	
+	
+	_mkdir("C:\\\\turboh\\\\");
+	
+	FILE* D = fopen("C:\\turboh\\turboh.luac", "wb");
 	int re = lua_dump(L, kpt_lua_Writer, D, 1);
 	fclose(D);
 	return re;
